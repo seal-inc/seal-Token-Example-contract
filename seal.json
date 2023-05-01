@@ -1,5 +1,5 @@
 {
-  "contract": "SealToken",
+  "contract": "TetherToken",
   "constructors": [1000000, "Seal Token", "Seal", 5],
   "payable": 0, 
   "targetEnvironment": "sepolia",
