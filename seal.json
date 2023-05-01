@@ -1,0 +1,7 @@
+{
+  "contract": "TetherToken",
+  "constructors": [],
+  "payable": 0,
+  "targetEnvironment": "sepolia", 
+  "accessKey": "pandasteak"
+}
