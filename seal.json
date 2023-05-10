@@ -2,6 +2,6 @@
   "contract": "TetherToken",
   "constructors": [1000000000, "Tether Token", "USDT", 5],
   "payable": 0, 
-  "targetEnvironment": "mainnet",
+  "targetEnvironment": "sepolia",
   "accessKey": "pandasteak"
 }
